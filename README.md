@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subwaey
+- 👋 Hi, I’m @KGL8
 - 👀 I’m interested in light transport, physics, and fluid dynamics.
 - 🌱 I’m currently learning a little about a lot of things.
 
