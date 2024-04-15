@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KGL8
-- 👀 I’m interested in light transport, physics, and fluid dynamics.
-- 🌱 I’m currently learning a little about a lot of things.
+- 👀 I’m interested in light transport, hyperbolic geometry, and fluid dynamics.
+- 🌱 I’m currently learning about pathfinding algorithms.
 
 ## Project Activity-Ranking System
 1) 🌟 Active : Project is still actively contributed to
